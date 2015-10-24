@@ -1,0 +1,12 @@
+Uninstaller	32,593	61%
+Kahoot Libs\msvcr120.dll	489,617	50%
+Kahoot Libs\msvcp120.dll	158,988	66%
+Kahoot Libs\Browser Plugin.dll	54,949	63%
+Kahoot Libs\RBGUIFramework.dll	714,267	61%
+Kahoot.exe	672,726	77%
+
+Result :
+    Number of files: 6
+    Total uncompressed size: 6259244 bytes
+    Total compressed size: 2123140 bytes
+    Install program size: 2217456 bytes
