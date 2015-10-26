@@ -1,0 +1,7 @@
+Kahoot.exe	604,878	79%
+
+Result :
+    Number of files: 1
+    Total uncompressed size: 2776306 bytes
+    Total compressed size: 604878 bytes
+    Install program size: 698879 bytes
